@@ -1,7 +1,7 @@
 name: James Beta
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.32322
+typography_spectrum: 0.18595
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
     - '#ffffff'
-    - '#8b8e96'
-    - '#fef200'
-    - '#22b04b'
+    - '#000000'
+    - '#fff200'
+    - '#00a2e8'
+    - '#a22e6f'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
