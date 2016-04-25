@@ -1,0 +1,28 @@
+name: James Beta
+favicon: null
+layout_spectrum: 0.6930685881525278
+typography_spectrum: 0.9638018261175603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3404838480055332
+  lightness: 0.9277206079568714
+  saturation: 0.86933499481529
+  rhythmicContrast: 0.16208371380344033
+purpose: []
