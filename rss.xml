@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[James Beta]]></title>
         <description><![CDATA[James Beta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/james-beta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 07:31:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 07:46:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/james-beta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/062615ef-98d3-4fc1-8245-154587bfb690.jpg">]]></description>
+            <link>https://thegrid.ai/james-beta/being-grouchy-can-be-very-fun/index.html</link>
+            <guid isPermaLink="false">788ba18c-7cff-47f3-9569-1e713060f990</guid>
+            <pubDate>Mon, 25 Apr 2016 07:46:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d48b659e-04c8-4b58-820c-4e8a3e2d6e95.jpg">]]></description>
-            <link>undefinedsometimes-i-like-to-google-things-like-many-original-people/index.html</link>
+            <link>https://thegrid.ai/james-beta/sometimes-i-like-to-google-things-like-many-original-people/index.html</link>
             <guid isPermaLink="false">8cfff319-97aa-4c36-8ee7-0a8ac67a0b7e</guid>
             <pubDate>Mon, 25 Apr 2016 07:30:56 GMT</pubDate>
         </item>
